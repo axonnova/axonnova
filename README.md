@@ -45,7 +45,7 @@ Stay tuned — new tools are being added every week.
 ### 📫 Contact
 You can reach me for collaboration, automation projects, or freelance work:
 
-**Email:** axonnovadev@gmail.com *(isteğe göre değiştirebiliriz)*  
+**Email:** axonnovai@gmail.com
 **GitHub:** github.com/axonnova
 
 ---
